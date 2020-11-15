@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_yc3682"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["yunxuan0724 <yc3682@columbia.edu>"]
 license = "MIT"
